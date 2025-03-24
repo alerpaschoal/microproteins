@@ -1,4 +1,4 @@
-# UTFPR Bioinformatics Course - Topic II: Microproteins - 2025-1
+# UTFPR Bioinfo Course - Topic II: Microproteins 2025
 
 This repository collects the course materials for two bioinformatics courses being taught by Prof. Alexandre R Paschoal at UTFPR in Spring 2025, for the [PPGAB](https://www.utfpr.edu.br/cursos/programas-de-pos-graduacao/ppgab-cp) and [PPGBIOINFO](https://www.utfpr.edu.br/cursos/programas-de-pos-graduacao/ppgbioinfo-cp) degrees: 
 
