@@ -23,7 +23,8 @@ It is the same course, but two levels, one for a master's and another for a PhD.
 
 📄 **Recommended reading:**
 - [Article: Classification and function of small open reading frames](https://www.nature.com/articles/nrm.2017.58)
-- [Review | Several articles published as a Microproteins Special issue from Trends in Genetics](https://www.sciencedirect.com/journal/trends-in-genetics/vol/41/issue/2)
+- [Perspective: Not all exons are protein coding: Addressing a common misconception](https://www.cell.com/cell-genomics/fulltext/S2666-979X(23)00062-9)
+
 
 ### **Week 2: Computational methods and presentation - 31/03/25**  
 ** Topics:**  
@@ -39,11 +40,9 @@ It is the same course, but two levels, one for a master's and another for a PhD.
 ### HOLIDAY - 21/04/25 - **Lesson 5: **  
 ### DEFESA - 28/04/25 - **Lesson 6: **  
 
-
-
-* Future:
-- [Article 1: Microproteins in cell regulation](https://doi.org/10.1016/j.cell.2023.09.001)  
-
+### **Fundamental material**
+- [Review | Several articles published as a Microproteins Special issue from Trends in Genetics](https://www.sciencedirect.com/journal/trends-in-genetics/vol/41/issue/2)
+  
 ---
 ### Evaluation (for enrolled students)
 The evaluation for this course will be comprised of:
