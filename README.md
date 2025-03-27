@@ -34,6 +34,9 @@ It is the same course, but two levels, one for a master's and another for a PhD.
 📄 **Required Readings:**  
 - [Article: A survey of experimental and computational identification of small proteins](https://doi.org/10.1093/bib/bbae345)
 - [Article: No country for old methods: New tools for studying microproteins](https://doi.org/10.1016/j.isci.2024.108972)
+
+📄 **Recommended reading:**
+- [Article: Deep learning to decode sites of RNA translation in normal and cancerous tissues](https://www.nature.com/articles/s41467-025-56543-0)
   
 ### 07/04/25 - **Lesson 3: **  
 ### 14/04/25 - **Lesson 4: **  
