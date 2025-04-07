@@ -39,13 +39,22 @@ It is the same course, but two levels, one for a master's and another for a PhD.
 - [Article: Deep learning to decode sites of RNA translation in normal and cancerous tissues](https://www.nature.com/articles/s41467-025-56543-0)
   
 ### 07/04/25 - **Lesson 3: **  
+** Topics:**  
+- Summarize the previous presentation
+- Students' articles presentation
+
 ### 14/04/25 - **Lesson 4: **  
-### HOLIDAY - 21/04/25 - **Lesson 5: **  
-### DEFESA - 28/04/25 - **Lesson 6: **  
+** Topics:**  
+- How to validate microprotein?: Ribo-Seq, Mass spectrometry, etc.
+ 
+### HOLIDAY - 21/04/25
+
+### DEFESA - 28/04/25 - **Lesson 5: **  
+
 
 ### **Fundamental material**
 - [Review | Several articles published as a Microproteins Special issue from Trends in Genetics](https://www.sciencedirect.com/journal/trends-in-genetics/vol/41/issue/2)
-  
+
 ---
 ### Evaluation (for enrolled students)
 The evaluation for this course will be comprised of:
