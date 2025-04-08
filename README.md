@@ -46,10 +46,19 @@ It is the same course, but two levels, one for a master's and another for a PhD.
 ### 14/04/25 - **Lesson 4: **  
 ** Topics:**  
 - How to validate microprotein?: Ribo-Seq, Mass spectrometry, etc.
- 
+- Microproteins key concepts: biological (e.g., Mass spectrometry) and computational (e.g., methods for microprotein discovery)
+- Students presentation the data collected first draft
+
+📄 **Required Readings:**  
+- [Mass spectrometry–based protein identification in proteomics—a review](https://doi.org/10.1093/bib/bbz163)
+-  
+
 ### HOLIDAY - 21/04/25
 
-### DEFESA - 28/04/25 - **Lesson 5: **  
+### 30/04/25 - **Lesson 5: **  
+** Topics:**  
+
+
 
 
 ### **Fundamental material**
