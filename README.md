@@ -58,6 +58,10 @@ It is the same course, but two levels, one for a master's and another for a PhD.
 ### 30/04/25 - **Lesson 5: **  
 ** Topics:**  
 
+📄 **Required Readings:**  
+- [Article: How to generalize machine learning models to both canonical and non-canonical peptides](https://chemrxiv.org/engage/chemrxiv/article-details/67d2f3ae81d2151a023d64f8)
+- [Article: AutoPeptideML](https://doi.org/10.1093/bioinformatics/btae555)
+
 
 
 
