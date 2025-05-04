@@ -47,17 +47,19 @@ It is the same course, but two levels, one for a master's and another for a PhD.
 ** Topics:**  
 - How to validate microprotein?: Ribo-Seq, Mass spectrometry, etc.
 - Microproteins key concepts: biological (e.g., Mass spectrometry) and computational (e.g., methods for microprotein discovery)
-- Students presentation the data collected first draft
+- Students present the data collected first draft
 
 📄 **Required Readings:**  
 - [Mass spectrometry–based protein identification in proteomics—a review](https://doi.org/10.1093/bib/bbz163)
 -  
 
-### HOLIDAY - 21/04/25
+### HOLIDAY - 21/04/25 - No class
 
 ### 30/04/25 - **Lesson 5: **  
 ** Topics:**  
-
+- Students present the data collected 2nd draft
+- Students' articles presentation
+  
 📄 **Required Readings:**  
 - [Article: How to generalize machine learning models to both canonical and non-canonical peptides](https://chemrxiv.org/engage/chemrxiv/article-details/67d2f3ae81d2151a023d64f8)
 - [Article: AutoPeptideML](https://doi.org/10.1093/bioinformatics/btae555)
